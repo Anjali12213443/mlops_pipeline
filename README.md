@@ -3,6 +3,13 @@
 ## Project Overview
 An end-to-end MLOps pipeline that detects machine failures using real industrial sensor data. This project covers the full ML lifecycle: data preprocessing, experiment tracking, model serving, and data drift monitoring.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST%20API-green)
+![Evidently](https://img.shields.io/badge/Evidently-Data%20Drift-purple)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
 ## Dataset
 - **Source:** AI4I 2020 Predictive Maintenance Dataset (UCI Machine Learning Repository)
 - **Size:** 10,000 records, 14 features
