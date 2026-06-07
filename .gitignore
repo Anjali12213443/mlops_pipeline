@@ -1,0 +1,18 @@
+# Virtual environment
+mlops_env/
+
+# MLflow runs (too large for GitHub)
+mlruns/
+mlflow.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Large model files
+models/*.pkl
+
+# Raw data (too large)
+data/raw/
